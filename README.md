@@ -22,11 +22,11 @@ BlogSpot is a platform designed to empower you to express your thoughts, ideas, 
 
 #### Create your blogs
 
-#### View your blogs
+#### View any blog
 
-#### Update any blog
+#### Update your blogs
 
-#### Delete any blog
+#### Delete your blogs
 
 #### Search any blog
 
