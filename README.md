@@ -18,7 +18,7 @@ BlogSpot is a platform designed to empower you to express your thoughts, ideas, 
 ## Key Features
 #### View latest Blogs
 
-#### Can Register and Do Admin Sign
+#### Can Register and Do Admin Sign-in
 
 #### Create your blogs
 
