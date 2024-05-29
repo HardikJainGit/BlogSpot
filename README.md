@@ -33,7 +33,7 @@ BlogSpot is a platform designed to empower you to express your thoughts, ideas, 
 #### MongoDB Atlas used to store the blogs , usernames and passwords
 
 ## More Features
-Latest Blogs available on first page ; can view older vlogs also. Users can register their accounts ; data is stored in MongoDB Atlas. The users can register and then login to see their own blogs and perform CRUD operations on them ; these operations are reflected on the MongoDB server. The authMiddleware was implemented in the project to handle user authentication , it automatically logs out a user if their authentication tokens are deleted or become invalid. Also implemented Logout functionality.
+Latest Blogs available on first page ; can view older blogs also. Users can register their accounts ; data is stored in MongoDB Atlas. The users can register and then login to see their own blogs and perform CRUD operations on them ; these operations are reflected on the MongoDB server. The authMiddleware was implemented in the project to handle user authentication , it automatically logs out a user if their authentication tokens are deleted or become invalid. Also implemented Logout functionality.
 
 ## Tech Stack Used
 - HTML
