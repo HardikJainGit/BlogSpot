@@ -59,7 +59,7 @@ Latest Blogs available on first page ; can view older blogs also. Admins can reg
 
 - Install the required dependencies using npm package manager:
 ```bash
-  npm i bcrypt connect-mongo cookie-parser dotenv ejs express express-ejs-layouts express-session jsonwebtoken method-override mongoose 
+  npm install
 ```
 - Start the development server:
 ```bash
